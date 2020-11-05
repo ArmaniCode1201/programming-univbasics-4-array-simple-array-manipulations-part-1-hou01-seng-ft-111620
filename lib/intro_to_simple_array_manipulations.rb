@@ -19,5 +19,5 @@ array.shift(2)
 end
 
 def using_push(array, string)
-array.string(push)
+array.push(string)
 end
